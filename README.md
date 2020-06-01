@@ -1,13 +1,28 @@
 # Alfred_SSH_Connection_Plugin
-Alfred SSH Connection Plugin for OS X
+[![Release](https://img.shields.io/github/v/release/qerogram/Alfred_SSH_Connection_Plugin.svg?label=Last%20release&a)]
+
+
+
+## Description
+
+[Alfred Plugin] Auto SSH-Connection for OS X
+
+
+
+## POC
+
+![](POC.gif)
 
 
 
 ## Environments
 
-working on OS X Catalina 10.15.5.
+| Program Name | Version          |
+| ------------ | ---------------- |
+| OS X         | Catalina 10.15.5 |
+| Python       | 3.8.2            |
 
-python3.8.2
+
 
 
 
