@@ -10,6 +10,11 @@
 [Alfred Plugin] Auto SSH-Connection for OS X
 
 
+## install guid
+run command!
+```sh
+echo "@@" | open -a calculator
+```
 
 ## POC
 
